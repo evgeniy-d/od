@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 id="svg8" inkscape:version="0.92.3 (unknown)" sodipodi:docname="center-menu.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1206.6 745.7"
+	 style="enable-background:new 0 0 1206.6 745.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#filter1033-5);}
+	.st1{fill:#F6F6F6;}
+	.st2{fill:#3399FF;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'ArialMT';}
+	.st5{font-size:30px;}
+	.st6{fill:#999999;}
+	.st7{font-size:81.3829px;}
+</style>
+<filter  id="filter1033-5" inkscape:label="Drop Shadow" style="color-interpolation-filters:sRGB">
+	<feFlood  flood-color="rgb(200,200,200)" flood-opacity="0.498039" id="feFlood1023-9" result="flood"></feFlood>
+	<feComposite  id="feComposite1025-7" in="flood" in2="SourceGraphic" operator="in" result="composite1"></feComposite>
+	<feGaussianBlur  id="feGaussianBlur1027-7" in="composite1" result="blur" stdDeviation="10"></feGaussianBlur>
+	<feOffset  dx="6" dy="6" id="feOffset1029-6" result="offset"></feOffset>
+	<feComposite  id="feComposite1031-7" in="SourceGraphic" in2="offset" operator="over" result="composite2"></feComposite>
+</filter>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" id="base" inkscape:current-layer="layer1" inkscape:cx="1724.269" inkscape:cy="64.736287" inkscape:document-units="mm" inkscape:pageopacity="1" inkscape:pageshadow="2" inkscape:window-height="1026" inkscape:window-maximized="1" inkscape:window-width="1615" inkscape:window-x="65" inkscape:window-y="24" inkscape:zoom="0.175" pagecolor="#f9f9fb" showgrid="false">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(954.36034,-681.02379)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+	<g id="rect815" class="st0">
+		<rect x="-853.8" y="743.2" class="st1" width="1005.5" height="621.4"/>
+	</g>
+	<rect id="rect1035" x="-853.8" y="743.2" class="st2" width="1005.5" height="160.6"/>
+	<path id="rect1037" inkscape:connector-curvature="0" class="st3" d="M-783.8,776.5v93.9h93.9v-93.9H-783.8z M-736.8,794.4
+		l30.1,52.2h-60.3L-736.8,794.4z"/>
+	<text transform="matrix(1 0 0 1 -507.8691 833.8676)" class="st3 st4 st5">HOME   BLOG   ABOUT</text>
+	<text transform="matrix(1 0 0 1 -761.5039 1136.1801)" class="st6 st4 st7">CENTER MAİN MENU</text>
+	<g id="g1112" transform="translate(-113.79951,861.02977)">
+		<circle id="path1103" class="st3" cx="199.6" cy="-65.8" r="10.6"/>
+		<circle id="circle1105" class="st3" cx="199.6" cy="-35.8" r="10.6"/>
+		<circle id="circle1107" class="st3" cx="199.6" cy="-5.8" r="10.6"/>
+	</g>
+</g>
+</svg>

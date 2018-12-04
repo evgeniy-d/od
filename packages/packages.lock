@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "3930896afa4a4479981f91b8de9b03bc",
-    "content-hash": "bbbb09a31fa6119bb28fa8329529c895",
+    "hash": "39e3a04651f74b58f239c8d9b1e96849",
+    "content-hash": "9c3d7b4baa799f2c1da5fe77710b16c8",
     "packages": [
         {
             "name": "pagekit/blog",
@@ -38,6 +38,102 @@
                 }
             ],
             "description": "A blog extensions with a built-in comment system."
+        },
+        {
+            "name": "pagekit/theme-aurora",
+            "version": "1.0.0",
+            "dist": {
+                "type": "zip",
+                "url": "/home/mtron/meditinc_html/oakmadev.dz/tmp/packages/pagekit-theme-aurora-1.0.0.zip",
+                "reference": null,
+                "shasum": "d05b5e8096a4d7e33942124292f652b6a761c207"
+            },
+            "archive": {
+                "exclude": [
+                    "!/app",
+                    "!/css",
+                    "/app/assets"
+                ]
+            },
+            "type": "pagekit-theme",
+            "extra": {
+                "image": "image.jpg"
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Pagekit",
+                    "email": "info@pagekit.com",
+                    "homepage": "http://pagekit.com"
+                }
+            ],
+            "description": "With its large image sidebar the Aurora theme is great for portfolios and blogging. It includes 6 totally different styles."
+        },
+        {
+            "name": "pagekit/theme-avanti",
+            "version": "1.0.0",
+            "dist": {
+                "type": "zip",
+                "url": "/home/mtron/meditinc_html/oakmadev.dz/tmp/packages/pagekit-theme-avanti-1.0.0.zip",
+                "reference": null,
+                "shasum": "81e4d87411cf021189725061728c6f384dec93ea"
+            },
+            "archive": {
+                "exclude": [
+                    "!/app",
+                    "!/css",
+                    "/app/assets"
+                ]
+            },
+            "type": "pagekit-theme",
+            "extra": {
+                "image": "image.jpg"
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Pagekit",
+                    "email": "info@pagekit.com",
+                    "homepage": "http://pagekit.com"
+                }
+            ],
+            "description": "The sophisticated Avanti theme is fully packed with features. It includes 6 totally different styles."
+        },
+        {
+            "name": "pagekit/theme-minimal",
+            "version": "1.0.2",
+            "dist": {
+                "type": "zip",
+                "url": "/home/mtron/meditinc_html/oakmadev.dz/tmp/packages/pagekit-theme-minimal-1.0.2.zip",
+                "reference": null,
+                "shasum": "1828b84fd228fd7f8f68771b482e750c188ec2dd"
+            },
+            "archive": {
+                "exclude": [
+                    "!/app",
+                    "!/css",
+                    "/app/assets"
+                ]
+            },
+            "type": "pagekit-theme",
+            "extra": {
+                "image": "image.jpg"
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Pagekit",
+                    "email": "info@pagekit.com",
+                    "homepage": "http://pagekit.com"
+                }
+            ],
+            "description": "A very clean and simple theme great for blogging."
         },
         {
             "name": "pagekit/theme-one",
